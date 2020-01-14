@@ -1,9 +1,15 @@
 ## Course Information
-This section should include: 
-1) The course number, section, name; course number, section, and name; semester and year; any applicable prerequisites, co-requisites, or other enrollment requirements; and meeting dates, times, and place(s) and/or description of course modality. Information should be from from the official Schedule of Classes.
-2) Instructor and/or GTA contact information. Name(s) of instructor(s) and Graduate Teaching Assistant(s), as applicable; UCF email addresses; office, department location, and phone number; and times and locations for in-person and/or virtual office hours.
+#### Intro to Texts and Technology
+ENG 6800-0001
+Dr. Mel Stanfill
+Fall 2018
+Mondays 6 to 8:50 p.m., Room 236-D
+Classroom Building 1, Room 107
+3 units
+Office: Trevor Colbourn Hall
+Office Hours: M 10-12, W 12-2, Th 2-4, By appointment
+Contact: mel.stanfill@ucf.edu or via Webcourses
 #### Course Description
-In addition to the official description published in Graduate Catalog, you should include an overview of the scope and purpose of the course. Additionally, you must include specific, measurable learning objectives that: are consistent with the scope and purpose of the course and tie as clearly as possible to course assignments and activities.
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 #### Course Objectives
 In this course, students will:
