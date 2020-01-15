@@ -23,7 +23,12 @@ In this course, students will:
 8) Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 #### Required Materials
 
-Bolter, Jay David. <i>Writing Space: Computers, Hypertext, and the Remediation of Print.<i> Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
+
+Belcher, Wendy. "On Writing a Journal Article" https://www.insidehighered.com/advice/2019/07/18/how-write-publishable-journal-article-opinion
+Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
+Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
+Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
+
 
 Bogost, Ian. Persuasive Games. MIT Press Ltd, 2010.
 
