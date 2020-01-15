@@ -23,6 +23,10 @@ In this course, students will:
 8) Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 #### Required Materials
 This should include required texts as well as other applicable materials (if any).
+Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
+Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
+Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
+
 ## Course Policies
 This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
 ## Assignments
