@@ -34,7 +34,7 @@ This should include policies about participation expecttions; attendance; late w
 **10 Points   Presentation and Handout (2)**-You will choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
 **10 Points   Abstract**   
 **15 Points   Literature Review**   
-**20 Points   Web Presence**-You will create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
+**20 Points   Web Presence** **October 26** -You will create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
 **15 Points   Journal Article Draft**   
 **5 Points   Peer Review Feedback**  
 **20 Points   Journal Article Final Draft**
