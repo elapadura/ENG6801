@@ -31,4 +31,37 @@ This section should include a list of assignments with their point totals or per
 - Discussion posts
 - Final paper or project
 ## Schedule
-The minimum required here is due dates for major assignments and exams/assessments; method(s) for submitting assignments; and the date and format of the final exam. You may want to add information on withdrawal dates or other events.
+Class Schedule 
+
+Week One: August 24	Academic Activity Verification
+
+Week Two: August 31
+
+Week Three: September 7 Labor Day (no class)
+
+Week Four: September 14
+
+Week Five: September 21 Abstract Due
+
+Week Six: September 28
+
+Week Seven: October 5
+
+Week Eight: October 12	Draft Paper Due
+
+Week Nine: October 19
+
+Week Ten: October 26 Website Due
+
+Week Eleven: November 2
+
+Week Twelve: November 9	Peer Review Due
+
+Week Thirteen: November 16
+
+Week Fourteen: November 23 Thanksgiving Break(no class)
+
+Week Fifteen: November 30
+
+Week Sixteen: December 7	Final Paper Due
+
