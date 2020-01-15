@@ -22,21 +22,29 @@ In this course, students will:
 7) Understand the fundamentals of web platforms.
 8) Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 #### Required Materials
-This should include required texts as well as other applicable materials (if any).
+
+
 Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
 Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
 Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
 
+Bogost, Ian. Persuasive Games. MIT Press Ltd, 2010.
+
+Gold, Matthew K., Lauren Klein (eds.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016.
+
+Selber, Stuart. Multiliteracies for a Digital Age. Carbondale,IL: Southern Illinois University Press, 2004.
+
+
 ## Course Policies
 This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
 ## Assignments
-10 Points   Presentation and Handout (2)
-10 Points   Abstract
-15 Points   Literature Review
-20 Points   Web Presence
-15 Points   Journal Article Draft
- 5 Points   Peer Review Feedback
-20 Points   Journal Article Final Draft
+**10 Points   Presentation and Handout (2)**-You will choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
+**10 Points   Abstract**   
+**15 Points   Literature Review**   
+**20 Points   Web Presence**-You will create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
+**15 Points   Journal Article Draft**   
+**5 Points   Peer Review Feedback**  
+**20 Points   Journal Article Final Draft**
 ## Schedule
 Class Schedule 
 
