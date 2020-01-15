@@ -23,14 +23,15 @@ In this course, students will:
 8) Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 #### Required Materials
 
-
-Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
-Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
-Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
+Bolter, Jay David. <i>Writing Space: Computers, Hypertext, and the Remediation of Print.<i> Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
 
 Bogost, Ian. Persuasive Games. MIT Press Ltd, 2010.
 
 Gold, Matthew K., Lauren Klein (eds.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016.
+
+Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
+
+Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
 
 Selber, Stuart. Multiliteracies for a Digital Age. Carbondale,IL: Southern Illinois University Press, 2004.
 
