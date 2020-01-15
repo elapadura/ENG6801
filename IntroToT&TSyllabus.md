@@ -1,11 +1,11 @@
 ## Course Information
 #### Intro to Texts and Technology
-ENG 6800-0001   
-Dr. Mel Stanfill   
+ENG 6800-0001      
 Fall 2018   
 Mondays 6 to 8:50 p.m., Room 236-D   
 Classroom Building 1, Room 107   
 3 units   
+Instructor: Dr. Mel Stanfill   
 Office: Trevor Colbourn Hall   
 Office Hours: M 10-12, W 12-2, Th 2-4, By appointment   
 Contact: mel.stanfill@ucf.edu or via Webcourses   
@@ -23,28 +23,45 @@ In this course, students will:
 8) Apply basic syntax and markup language to build structured web documents (e.g., HTML).
 #### Required Materials
 
+
 Belcher, Wendy. "On Writing a Journal Article" https://www.insidehighered.com/advice/2019/07/18/how-write-publishable-journal-article-opinion
 Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
 Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
 Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
 
+
 Bogost, Ian. Persuasive Games. MIT Press Ltd, 2010.
 
 Gold, Matthew K., Lauren Klein (eds.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016.
 
+Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
+
+Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
+
 Selber, Stuart. Multiliteracies for a Digital Age. Carbondale,IL: Southern Illinois University Press, 2004.
+
+Sweeney, Miriam E. “How to Read for Grad School.” 2012.
 
 
 ## Course Policies
 This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
 ## Assignments
-**10 Points   Presentation and Handout (2)**-You will choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
-**10 Points   Abstract**   
-**15 Points   Literature Review**   
-**20 Points   Web Presence** **October 26** -You will create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
-**15 Points   Journal Article Draft**   
-**5 Points   Peer Review Feedback**  
-**20 Points   Journal Article Final Draft**
+**Presentation and Handout (10 Points)**   
+Choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
+**Abstract (10 Points)**   
+Choose a special issue or a target journal from an approved list. Draft an abstract of the appropriate length and style, following the journal guidelines. This will jump start your semester long research project.   
+**Literature Review (15 Points)**   
+Select five related journal articles or book chapters with the assistance of the professor; at least one of the articles must be from your target journal. Using the examples as a guide, prepare a literature review on your subject using the chosen articles, as well as the course readings.    
+**Web Presence (20 Points)** **Due October 26**   
+Create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
+**Journal Article Draft (15 Points)**   
+Prepare a complete draft of your journal article for peer review, using the formatting guidelines and length requirement of your selected journal. The draft will be graded on completion only and will go through peer review, and will be the foundation of feedback for your final revision.   
+**Peer Review Feedback (5 Points)**   
+Provide professional and appropriate feedback on the journal article assigned to you by a fellow classmate. Focus on content, substance, and clarity of communication.   
+**Final Revised Journal Article (20 Points)**   
+Based on the feedback from the peer review, submit a final revised journal article.   
+**Total: 100 Points**   
+
 ## Schedule
 Class Schedule 
 
