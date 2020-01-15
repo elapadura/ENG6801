@@ -43,7 +43,7 @@ This should include policies about participation expecttions; attendance; late w
 **15 Points   Literature Review**   
 **20 Points   Web Presence** **October 26** -You will create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
 **15 Points   Journal Article Draft**   
-**5 Points   Peer Review Feedback**  
+**5 Points   Peer Review Feedback** You will provide feedback in a professional and appropriate manner to a fellow student's paper. You will be assigned a peer and should focus on their overall content and argument. 
 **20 Points   Journal Article Final Draft**
 ## Schedule
 Class Schedule 
