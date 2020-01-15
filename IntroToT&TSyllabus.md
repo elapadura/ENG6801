@@ -34,6 +34,8 @@ Gold, Matthew K., Lauren Klein (eds.) Debates in the Digital Humanities. Minneap
 
 Selber, Stuart. Multiliteracies for a Digital Age. Carbondale,IL: Southern Illinois University Press, 2004.
 
+Sweeney, Miriam E. “How to Read for Grad School.” 2012.
+
 
 ## Course Policies
 This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
