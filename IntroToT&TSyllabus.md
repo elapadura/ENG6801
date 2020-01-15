@@ -1,14 +1,14 @@
 ## Course Information
 #### Intro to Texts and Technology
-ENG 6800-0001
-Dr. Mel Stanfill
-Fall 2018
-Mondays 6 to 8:50 p.m., Room 236-D
-Classroom Building 1, Room 107
-3 units
-Office: Trevor Colbourn Hall
-Office Hours: M 10-12, W 12-2, Th 2-4, By appointment
-Contact: mel.stanfill@ucf.edu or via Webcourses
+ENG 6800-0001   
+Dr. Mel Stanfill   
+Fall 2018   
+Mondays 6 to 8:50 p.m., Room 236-D   
+Classroom Building 1, Room 107   
+3 units   
+Office: Trevor Colbourn Hall   
+Office Hours: M 10-12, W 12-2, Th 2-4, By appointment   
+Contact: mel.stanfill@ucf.edu or via Webcourses   
 #### Course Description
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 #### Course Objectives
