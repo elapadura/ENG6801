@@ -1,11 +1,11 @@
 ## Course Information
 #### Intro to Texts and Technology
-ENG 6800-0001   
-Dr. Mel Stanfill   
+ENG 6800-0001      
 Fall 2018   
 Mondays 6 to 8:50 p.m., Room 236-D   
 Classroom Building 1, Room 107   
 3 units   
+Instructor: Dr. Mel Stanfill   
 Office: Trevor Colbourn Hall   
 Office Hours: M 10-12, W 12-2, Th 2-4, By appointment   
 Contact: mel.stanfill@ucf.edu or via Webcourses   
@@ -24,20 +24,29 @@ In this course, students will:
 #### Required Materials
 
 
+Belcher, Wendy. "On Writing a Journal Article" https://www.insidehighered.com/advice/2019/07/18/how-write-publishable-journal-article-opinion
 Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
 Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
 Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
+
 
 Bogost, Ian. Persuasive Games. MIT Press Ltd, 2010.
 
 Gold, Matthew K., Lauren Klein (eds.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016.
 
+Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
+
+Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
+
 Selber, Stuart. Multiliteracies for a Digital Age. Carbondale,IL: Southern Illinois University Press, 2004.
+
+Sweeney, Miriam E. “How to Read for Grad School.” 2012.
 
 
 ## Course Policies
 This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
 ## Assignments
+
 **10 Points   Presentation and Handout (2)**-You will choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
 **10 Points   Abstract**   
 **15 Points   Literature Review**   
@@ -45,6 +54,7 @@ This should include policies about participation expecttions; attendance; late w
 **15 Points   Journal Article Draft**   
 **5 Points   Peer Review Feedback** You will provide feedback in a professional and appropriate manner to a fellow student's paper. You will be assigned a peer and should focus on their overall content and argument. 
 **20 Points   Journal Article Final Draft**
+
 ## Schedule
 Class Schedule 
 
