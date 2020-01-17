@@ -1,7 +1,7 @@
 ## Course Information
 #### Intro to Texts and Technology
 ENG 6800-0001      
-Fall 2018   
+Fall 2020   
 Mondays 6 to 8:50 p.m., Room 236-D   
 Classroom Building 1, Room 107   
 3 units   
