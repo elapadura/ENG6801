@@ -6,9 +6,9 @@ Mondays 6 to 8:50 p.m., Room 236-D
 Classroom Building 1, Room 107   
 3 units   
 Instructor: Dr. Mel Stanfill   
-Office: Trevor Colbourn Hall   
+Office: Trevor Colbourn Hall, Room 236   
 Office Hours: M 10-12, W 12-2, Th 2-4, By appointment   
-Contact: mel.stanfill@ucf.edu or via Webcourses   
+Contact: mel.stanfill@ucf.edu or via Webcourses; phone 407-823-1711   
 #### Course Description
 This course provides an introduction to the PhD in Texts and Technology. Emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. PR: Graduate standing or C.I.
 #### Course Objectives
