@@ -25,20 +25,18 @@ In this course, students will:
 
 
 Belcher, Wendy. "On Writing a Journal Article" https://www.insidehighered.com/advice/2019/07/18/how-write-publishable-journal-article-opinion
-Bolter, Jay David. Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
-Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
-Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
 
+Bogost, Ian. _Persuasive Games._ MIT Press Ltd, 2010.
 
-Bogost, Ian. Persuasive Games. MIT Press Ltd, 2010.
+Bolter, Jay David. _Writing Space: Computers, Hypertext, and the Remediation of Print._ Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
 
-Gold, Matthew K., Lauren Klein (eds.) Debates in the Digital Humanities. Minneapolis: University of Minnesota Press, 2016.
+Gold, Matthew K., Lauren Klein (eds.)_Debates in the Digital Humanities_. Minneapolis: University of Minnesota Press, 2016.
 
-Klein, Julie Thompson. Interdisciplining Digital Humanities: Boundary Work in an Emerging Field. Ann Arbor: University of Michigan Press, 2015.
+Klein, Julie Thompson. _Interdisciplining Digital Humanities: Boundary Work in an Emerging Field_. Ann Arbor: University of Michigan Press, 2015.
 
-Nakamura, Lisa. Digitizing Race: Visual Cultures of the Internet. Minneapolis, MI: University of Minnesota Press, 2008.
+Nakamura, Lisa. _Digitizing Race: Visual Cultures of the Internet._ Minneapolis, MI: University of Minnesota Press, 2008.
 
-Selber, Stuart. Multiliteracies for a Digital Age. Carbondale,IL: Southern Illinois University Press, 2004.
+Selber, Stuart. _Multiliteracies for a Digital Age._ Carbondale,IL: Southern Illinois University Press, 2004.
 
 Sweeney, Miriam E. “How to Read for Grad School.” 2012.
 
