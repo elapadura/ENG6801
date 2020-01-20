@@ -38,7 +38,7 @@ Nakamura, Lisa. _Digitizing Race: Visual Cultures of the Internet._ Minneapolis,
 
 Selber, Stuart. _Multiliteracies for a Digital Age._ Carbondale,IL: Southern Illinois University Press, 2004.
 
-Sweeney, Miriam E. “How to Read for Grad School.” 2012.
+Sweeney, Miriam E. “How to Read for Grad School.” 2012. https://miriamsweeney.net/2012/06/20/readforgradschool/
 
 
 ## Course Policies
