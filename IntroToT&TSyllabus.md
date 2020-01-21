@@ -54,49 +54,49 @@ This should include policies about participation expecttions; attendance; late w
 **20 Points   Journal Article Final Draft**
 
 ## Schedule
-Class Schedule 
+**Class Schedule** 
 
-Week One: August 24	Academic Activity Verification
+**Week One: August 24	Academic Activity Verification**
 <br/>Readings: Bolter: Chapter 1-3; Gold & Klein: 1-5; Sweeney
 
-Week Two: August 31
+**Week Two: August 31**
 <br/>Readings: Bolter: Chapter 4-6;Gold & Klein: 6-10
 
-Week Three: September 7 Labor Day (no class)
+**Week Three: September 7 Labor Day (no class)**
 
-Week Four: September 14 Abstract Due
+**Week Four: September 14 Abstract Due**
 <br/>Readings: Klein: Chapter 1-3; Gold & Klein:11-14 
 
-Week Five: September 21 
+**Week Five: September 21** 
 <br/>Readings: Klein: Chapter 4-6; Gold & Klein:15-18
 
-Week Six: September 28 Literature Review Due
+**Week Six: September 28 Literature Review Due**
 <br/>Readings: Bogost: Chapter 1-6
 
-Week Seven: October 5
+**Week Seven: October 5**
 <br/>Readings: Bogost: Chapter 7-11
 
-Week Eight: October 12	Journal Article Draft Due
+**Week Eight: October 12	Journal Article Draft Due**
 <br/>Readings:Gold & Klein: Part III
 
-Week Nine: October 19
+**Week Nine: October 19**
 <br/>Readings:Gold & Klein: Part IV
 
-Week Ten: October 26 Website Due
+**Week Ten: October 26 Website Due**
 <br/>Readings:Gold & Klein: Part V
 
-Week Eleven: November 2
+**Week Eleven: November 2**
 <br/>Readings: Selber: Chapter 1-5
 
-Week Twelve: November 9	Peer Review Due
+**Week Twelve: November 9	Peer Review Due**
 <br/>Readings: Nakamura: Chapter 1-5
 
-Week Thirteen: November 16
+**Week Thirteen: November 16**
 <br/>Readings: Belcher
 
-Week Fourteen: November 23 Thanksgiving Break(no class)
+**Week Fourteen: November 23 Thanksgiving Break(no class)**
 
-Week Fifteen: November 30
+**Week Fifteen: November 30**
 
-Week Sixteen: December 7	Journal Article Final Draft Due
+**Week Sixteen: December 7	Journal Article Final Draft Due**
 
