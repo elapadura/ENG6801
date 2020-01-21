@@ -92,6 +92,7 @@ Week Twelve: November 9	Peer Review Due
 <br/>Readings: Nakamura: Chapter 1-5
 
 Week Thirteen: November 16
+<br/>Readings: Belcher
 
 Week Fourteen: November 23 Thanksgiving Break(no class)
 
