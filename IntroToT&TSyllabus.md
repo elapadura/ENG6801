@@ -44,14 +44,21 @@ Sweeney, Miriam E. “How to Read for Grad School.” 2012. https://miriamsweene
 ## Course Policies
 This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
 ## Assignments
-
-**10 Points   Presentation and Handout (2)**-You will choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
-**10 Points   Abstract**   
-**15 Points   Literature Review**   
-**20 Points   Web Presence** **October 26** -You will create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
-**15 Points   Journal Article Draft**   
-**5 Points   Peer Review Feedback** You will provide feedback in a professional and appropriate manner to a fellow student's paper. You will be assigned a peer and should focus on their overall content and argument. 
-**20 Points   Journal Article Final Draft**
+**Presentation and Handout (10 Points)**   
+Choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
+**Abstract (10 Points)** **Due September 14**   
+Choose a special issue or a target journal from an approved list. Draft an abstract of the appropriate length and style, following the journal guidelines. This will jump start your semester long research project.   
+**Literature Review (15 Points)** **Due September 28**   
+Select five related journal articles or book chapters with the assistance of the professor; at least one of the articles must be from your target journal. Using the examples as a guide, prepare a literature review on your subject using the chosen articles, as well as the course readings.    
+**Journal Article Draft (15 Points)** **Due October 12**  
+Prepare a complete draft of your journal article for peer review, using the formatting guidelines and length requirement of your selected journal. The draft will be graded on completion only and will go through peer review, and will be the foundation of feedback for your final revision.   
+**Web Presence (20 Points)** **Due October 26**   
+Create an academic website that features a brief bio, image, skills, CV, and recent publications or conference talks. The website will be built through GitHub and be created in a series of stages throughout the semester.   
+**Peer Review Feedback (10 Points)** **Due November 12**   
+Provide professional and appropriate feedback on the journal article assigned to you by a fellow classmate. Focus on content, substance, and clarity of communication.   
+**Final Revised Journal Article (20 Points)**  **Due December 7**   
+Based on the feedback from the peer review, submit a final revised journal article.   
+**Total: 100 Points** 
 
 ## Schedule
 **Class Schedule** 
