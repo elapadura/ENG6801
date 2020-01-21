@@ -97,6 +97,7 @@ This should include policies about participation expecttions; attendance; late w
 **Week Fourteen: November 23 Thanksgiving Break(no class)**
 
 **Week Fifteen: November 30**
+<br/>No readings. (In class work day)
 
 **Week Sixteen: December 7	Journal Article Final Draft Due**
 
