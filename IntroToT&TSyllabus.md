@@ -2,11 +2,11 @@
 #### Intro to Texts and Technology
 ENG 6800-0001      
 Fall 2020   
-Mondays 6 to 8:50 p.m., Room 236-D   
+Mondays 6 to 8:50 p.m.   
 Classroom Building 1, Room 107   
 3 units   
 Instructor: Dr. Mel Stanfill   
-Office: Trevor Colbourn Hall, Room 236   
+Office: Trevor Colbourn Hall, Room 236-D    
 Office Hours: M 10-12, W 12-2, Th 2-4, By appointment   
 Contact: mel.stanfill@ucf.edu or via Webcourses; phone 407-823-1711   
 #### Course Description
