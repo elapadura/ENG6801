@@ -63,6 +63,6 @@ Based on the feedback from the peer review, submit a final revised journal artic
 ## Schedule
 **Class Schedule** 
 
-Week | Readings | Assignments
---- | ---
-content | conent
+| Week | Readings | Assignments |
+| --- | --- |
+| content | conent |
