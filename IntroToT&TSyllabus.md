@@ -65,6 +65,7 @@ Based on the feedback from the peer review, submit a final revised journal artic
 
 Week | Readings | Assignments
 --- | ---
+content | conent
 **Week One: August 24** | Readings: Bolter: Chapter 1-3; Gold & Klein: 1-5; Sweeney | 	Academic Activity Verification
 **Week Two: August 31** | Readings: Bolter: Chapter 4-6;Gold & Klein: 6-10  |
 **Week Three: September 7** | **Labor Day (no class)** |
