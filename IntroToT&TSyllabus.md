@@ -63,6 +63,10 @@ Based on the feedback from the peer review, submit a final revised journal artic
 ## Schedule
 **Class Schedule** 
 
+Test | Table
+--- | ---
+content | more content
+
 **Week One: August 24	Academic Activity Verification**
 <br/>Readings: Bolter: Chapter 1-3; Gold & Klein: 1-5; Sweeney
 
