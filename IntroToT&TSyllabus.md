@@ -72,10 +72,10 @@ Based on the feedback from the peer review, submit a final revised journal artic
 **Week Three: September 7 Labor Day (no class)**
 
 **Week Four: September 14 Abstract Due**
-<br/>Readings: Klein: Chapter 1-3; Gold & Klein: Chapter11-14 
+<br/>Readings: Klein: Chapter 1-3; Gold & Klein: Chapter 11-14 
 
 **Week Five: September 21** 
-<br/>Readings: Klein: Chapter 4-6; Gold & Klein Chapter: 15-18
+<br/>Readings: Klein: Chapter 4-6; Gold & Klein: Chapter 15-18
 
 **Week Six: September 28 Literature Review Due**
 <br/>Readings: Bogost: Chapter 1-6
