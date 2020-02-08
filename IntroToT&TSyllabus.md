@@ -42,7 +42,64 @@ Sweeney, Miriam E. “How to Read for Grad School.” 2012. https://miriamsweene
 
 
 ## Course Policies
-This should include policies about participation expecttions; attendance; late work; academic honesty; course accessibility; and campus safety. You may want to add other policies. A list of required policies is available on the UCF Faculty Center for Teaching and Learning's website.
+
+**Academic Activity Verification**
+
+As per university policy, in the first week of courses, students must complete an assignment to document their academic activity. The assignment must be done by **August 24th at 11:59PM**. Failure to complete the verification could cause delays in finaicial aid disbursement. Students not receiving financial aid are also required to complete the activity.
+
+**Late Work**
+
+Late work will not be accepted; that being said, if you do have a situation in which you cannot turn in work on time, you can ask for an extension. All extension requests should be submitted through email or other form of documentation. Any asks must be done *24 hours* before the due date of the assignment. Date for submission will be negotiated with your professor.
+
+**Academic Integrity**
+
+Students should familiarize themselves with UCF’s Rules of Conduct at <http://osc.sdes.ucf.edu/process/roc>. According to Section 1, “Academic Misconduct,” students are prohibited from engaging in
+  1. *Unauthorized assistance*: Using or attempting to use unauthorized materials, information or study aids in any academic exercise     unless specifically authorized by the instructor of record. The unauthorized possession of examination or course-related material also constitutes cheating.
+  2. *Communication to another through written, visual, electronic, or oral means*: The presentation of material which has not been studied or learned, but rather was obtained through someone else’s efforts and used as part of an examination, course assignment, or project.
+  3. *Commercial Use of Academic Material*: Selling of course material to another person, student, and/or uploading course material to a third-party vendor without authorization or without the express written permission of the university and the instructor. Course materials include but are not limited to class notes, Instructor’s PowerPoints, course syllabi, tests, quizzes, labs, instruction sheets, homework, study guides, handouts, etc
+  4. *Commercial Use of Academic Material* Selling of course material to another person, student, and/or uploading course material to a third-party vendor without authorization or without the express written permission of the university and the instructor. Course materials include but are not limited to class notes, Instructor’s PowerPoints, course syllabi, tests, quizzes, labs, instruction sheets, homework, study guides, handouts, etc.
+  5. *Plagiarism*: Using or appropriating another’s work without any indication of the source, thereby attempting to convey the impression that such work is the student’s own.
+  6. *Multiple Submissions*: Submitting the same academic work for credit more than once without the express written permission of the instructor.
+  7. *Helping another violate academic behavior standards.*
+ 
+Students should also familiarize themselves with the procedures for academic misconduct in UCF’s student handbook, The Golden Rule <http://goldenrule.sdes.ucf.edu/docs/goldenrule.pdf>. UCF faculty members have a responsibility for students’ education and the value of a UCF degree, and so seek to prevent unethical behavior and when necessary respond to academic misconduct. Penalties can include a failing grade in an assignment or in the course, suspension or expulsion from the university, and/or a “Z Designation” on a student’s official transcript indicating academic dishonesty, where the final grade for this course will be preceded by the letter Z. For more information about the Z Designation, see <http://goldenrule.sdes.ucf.edu/zgrade>.
+
+**Accessibility**
+
+The University of Central Florida is committed to providing **access, inclusion, and accomodation for all persons with disabilities.** Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with Student Accessibility Services (SAS) <http://sas.sdes.ucf.edu/> (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
+
+**Deployed Active Duty Military Students**
+
+Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.
+
+**Campus Safety Statement**
+
+Emergencies on campus are rare, but if one should arise during class, everyone needs to work together. Students should be aware of their surroundings and familiar with some basic safety and security concepts:
+
+  * In case of an emergency, dial 911 for assistance.
+  * Every UCF classroom contains an emergency procedure guide posted on a wall near the door. Students should make a note of the guide’s physical location and review the online version at <http://emergency.ucf.edu/emergency_guide.html>.
+  * Students should know the evacuation routes from each of their classrooms and have a plan for finding safety in case of an emergency.
+  * If there is a medical emergency during class, students may need to access a first-aid kit or AED (Automated External Defibrillator). To learn where those are located, see <http://www.ehs.ucf.edu/AEDlocations-UCF> (click on link from menu on left).
+  * To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to <https://my.ucf.edu> and logging in. Click on “Student Self Service” located on the left side of the screen in the toolbar, scroll down to the blue “Personal Information” heading on the Student Center screen, click on “UCF Alert”, fill out the information, including e-mail address, cell phone number, and cell phone provider, click “Apply” to save the changes, and then click “OK.”
+  * Students with special needs related to emergency situations should speak with their instructors outside of class.
+  * To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this video (<https://youtu.be/NIKYajEx4pk>).
+
+**Evaluation and Grading**
+
+All grades will be reported via Webcourses. The Grading Scale is as followed:
+  * A  = 94-100               
+  * A- = 90-93
+  * B+ = 88-89
+  * B  = 84-87
+  * B- = 80-83
+  * C+ = 78-79
+  * C  = 74-77
+  * C- = 70-73
+  * D+ = 68-69
+  * D  = 64-67
+  * D- = 60-63
+  * F  = 0-59
+  
 ## Assignments
 **Presentation and Handout (10 Points)**   
 Choose two readings from the provided list to present to the class. This will be a ten-minute presentation that may be informal, but you will produce a one page, doubled sided handout that includes the key points and arguments of the text. There will be a sign-up sheet in class to choose your presentation dates.   
